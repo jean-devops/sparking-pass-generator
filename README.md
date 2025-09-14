@@ -67,7 +67,7 @@
 
 <div align="center">
   <a href="#">
-      <img src=".github/assets/preview.png" width="200" alt="preview" />
+      <img src="./assets/preview.png" width="200" alt="preview" />
   </a>
 </div>
 
